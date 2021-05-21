@@ -1,4 +1,4 @@
 {
-  "VersionNumber": "1.0.002",
+  "VersionNumber": "1.1.002",
   "FileDownloadPath": ""
 }
