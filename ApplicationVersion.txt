@@ -1,4 +1,4 @@
 {
-  "VersionNumber": "1.1.005",
+  "VersionNumber": "1.1.004",
   "FileDownloadPath": "https://raw.githubusercontent.com/mazinncr9/FSDashboard/main/Release.zip"
 }
